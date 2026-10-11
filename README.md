@@ -1,4 +1,4 @@
-# BMICalculator
+<img width="337" height="746" alt="image" src="https://github.com/user-attachments/assets/7c32bf0d-839d-45c2-91a1-2fbc08f4e655" /># BMICalculator
 # 🏋️‍♂️ PulseFit IMC - Calculadora de Índice de Masa Corporal
 
 Bienvenido al repositorio de **PulseFit IMC**, una aplicación diseñada para calcular el Índice de Masa Corporal (IMC) de forma rápida, precisa y visual. El objetivo de este proyecto es ayudar a los usuarios a conocer su estado de salud a partir de su peso y altura, promoviendo hábitos saludables.
@@ -31,7 +31,7 @@ Aquí puedes ver la diferencia entre las dos ramas del proyecto:
 
 | Rama `main` (App Básica) | Rama `UI_Main` (App con Estilo) |
 | :---: | :---: |
-| <img src="ruta_a_tu_captura_basica.png" width="300"> | <img src="ruta_a_tu_captura_estilizada.png" width="300"> |
+| <img width="300"> | <img src="https://github.com/user-attachments/assets/036197d2-b817-4016-a32e-99f9695e31c1" width="300"> |
 | *Interfaz funcional sin estilos* | *Interfaz moderna y atractiva (PulseFit IMC)* |
 
 *(Nota: Sube tus capturas de pantalla al repositorio y reemplaza `ruta_a_tu_captura_basica.png` y `ruta_a_tu_captura_estilizada.png` con los enlaces reales).*
