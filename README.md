@@ -31,5 +31,5 @@ Aquí puedes ver la diferencia entre las dos ramas del proyecto:
 
 | Rama `main` (App Básica) | Rama `UI_Main` (App con Estilo) |
 | :---: | :---: |
-| <img src="(https://github.com/user-attachments/assets/9371ece8-d5fb-40c6-8181-dfa8be29a7f7)" width="300"> | <img src="https://github.com/user-attachments/assets/0677c3f8-a05a-4846-a40e-90c78dac8e35" width="300"> |
+| <img src="https://github.com/user-attachments/assets/9371ece8-d5fb-40c6-8181-dfa8be29a7f7" width="300"> | <img src="https://github.com/user-attachments/assets/0677c3f8-a05a-4846-a40e-90c78dac8e35" width="300"> |
 | *Interfaz funcional sin estilos* | *Interfaz moderna y atractiva (PulseFit IMC)* |
